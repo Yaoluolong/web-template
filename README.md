@@ -1,4 +1,4 @@
-# admin-template
+# web-template
 
 ## Project setup
 ```
